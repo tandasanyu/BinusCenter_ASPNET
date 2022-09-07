@@ -9,3 +9,5 @@ Index :
 4. Sesi 4: SiteMapPath, CSSNavbarMasterPage, Sesi2_WEBCONTROLASP (beberapa penambahan halaman web page, silahkan baca satu persatu coding web page untuk mengetahui lebih detail)
 5. SiteMapPath_Session_Cookies merupakan project untuk implementasi SiteMapPath saja. Penjelasan step-by-step ada pada Googledrive Kelas CPP : bit.ly/BinusCenter_Herlambang
 UPDATE : Sesi 5, ada pada project SiteMapPath_Session_Cookies. Silahkan cek detail dari Update terbaru pada project tersebut
+
+Test Update Repo
